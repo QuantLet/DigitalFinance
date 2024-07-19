@@ -1,1 +1,6 @@
-
+Name of QuantLet : 'CrowdfundingP2PICOs'
+Published in : 'DigitalFinance'
+Description : 'Discussion papers (DP) on the methodology for evaluating/rating ICOs and crowdfunding/P2P platforms and for detection/early warning about fraud/illegal behaviour with emphasis on the application of AI tools'
+Keywords : 'crowdfunding, p2p, ico, workshop'
+Author : 'Stefana Belbe, Liana Stanca, Lucia Teijeiro Gomez, Karsten Wenzlaff'
+Submitted : '19 Jul 2024'
